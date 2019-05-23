@@ -1,0 +1,17 @@
+ui_print("-----------------------------------------");
+ui_print(" Installing Kali-NetHunter BootAnimation");
+ui_print(".........................................");
+ui_print("zipped by krishna442");
+ui_print("scripted by yesimxev");
+ui_print("-----------------------------------------");
+ui_print("mounting system..");
+run_program("/sbin/busybox", "mount", "/system");
+ui_print("replacing bootanimation..");
+delete("/system/media/bootanimation.zip");
+package_extract_dir("system", "/system");
+ui_print("unmounting system..");
+unmount("/system");
+ui_print("-----------------------------------------");
+ui_print (" Bootanimation is succesfully installed!");
+ui_print (" You can reboot your device to check it out");
+ui_print("-----------------------------------------");

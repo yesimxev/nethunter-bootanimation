@@ -1,0 +1,94 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: HvHtymWHGr83qJqrklagDR3q4io=
+
+Name: system/app/MaxxAudioFX/lib/soundfx/libqcompostprocbundle.so
+SHA1-Digest: XzrEKUM/mFq1zvr58gv5qRiyduM=
+
+Name: system/app/CMFileManager/CMFileManager.apk
+SHA1-Digest: ATh+BUXrnxo1f2w52rigPu4R71c=
+
+Name: system/app/Hexo/Hexo.apk
+SHA1-Digest: Lrgd9wpwxHZdZZYTGSYMf2KcPto=
+
+Name: system/app/MaxxAudioFX/lib/soundfx/libreverbwrapper.so
+SHA1-Digest: n+m+knyBgwcsyQt1hbHQZk488Fk=
+
+Name: system/app/MaxxAudioFX/lib/soundfx/libldnhncr.so
+SHA1-Digest: REjbwplUND/99++PU6e09yPjD1A=
+
+Name: system/app/Trebuchet/Trebuchet.apk
+SHA1-Digest: r7gi01D2JTjeLVaKz/s8MNscdug=
+
+Name: system/app/MaxxAudioFX/lib/soundfx/libbundlewrapper.so
+SHA1-Digest: +EANlWn65yBoctckm+swdCkit7Y=
+
+Name: system/app/Screencast/Screencast.apk
+SHA1-Digest: H267xpJG5VqWVLjp7W6mc4fHc7g=
+
+Name: system/app/Terminal/lib/arm/libjni_terminal.so
+SHA1-Digest: 6ryN+o9IeRMkhZCU0chu/6wH8TQ=
+
+Name: system/app/QuickBoot/QuickBoot.apk
+SHA1-Digest: ao7VP0sVjllJ0nwtubJkT1izMLM=
+
+Name: system/app/MaxxAudioFX/lib/soundfx/libvisualizer.so
+SHA1-Digest: M7Ku6UShfxeKe34fpeL6cIVvwok=
+
+Name: system/app/CMWallpapers/CMWallpapers.apk
+SHA1-Digest: ILyOJUTPcCNGg3ZN1gv9G8JEXwE=
+
+Name: system/app/MaxxAudioFX/MaxxAudioFX.apk
+SHA1-Digest: CUTrqbB9pPwZkRe8k/RrBP3ca+s=
+
+Name: system/app/MaxxAudioFX/lib/soundfx/libeffectproxy.so
+SHA1-Digest: zBHIFuz/bNuATTsu6mhRQvK675k=
+
+Name: system/app/LockClock/LockClock.apk
+SHA1-Digest: t1bL3z5moBPJaFZHRshzsYfFERU=
+
+Name: system/app/Terminal/Terminal.apk
+SHA1-Digest: B6LzpAp3d/OsEvsbkRuX3L4aVeU=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: VxThql1jiCAU1pd/EN67QpLuLeA=
+
+Name: system/app/Nextbit/Nextbit.apk
+SHA1-Digest: 6IbHh6F8vLR/ReoEc4R/RS7pOZ0=
+
+Name: system/media/bootanimation.zip
+SHA1-Digest: SWJZwrOSDIcZmUOK5M/zlaqK1bg=
+
+Name: system/app/Boxer/Boxer.apk
+SHA1-Digest: nZtCtAAqLcgEKFBr+9vYHg4r+to=
+
+Name: system/app/GoogleConnectivityServices/GoogleConnectivityServices
+ .apk
+SHA1-Digest: 0cy+3mFKK7v9oO6bYfdAoQ6Vlxg=
+
+Name: system/app/MaxxAudioFX/lib/soundfx/libqcomvoiceprocessing.so
+SHA1-Digest: DulpDicouBj+TqQx4YB9TOnaoUo=
+
+Name: system/app/MaxxAudioFX/lib/soundfx/libqcomvisualizer.so
+SHA1-Digest: YEIIc6TODv5S/jNEBovXgIkuTYI=
+
+Name: system/app/SoundRecorder/SoundRecorder.apk
+SHA1-Digest: fG91Q02lURjuGQ08X8yi5DVkxGE=
+
+Name: system/app/MaxxAudioFX/lib/soundfx/libdownmix.so
+SHA1-Digest: 7cKuzcCdW2eKxm47gxgSupeC4Nw=
+
+Name: system/app/MaxxAudioFX/lib/soundfx/libaudiopreprocessing.so
+SHA1-Digest: s0NoLQ3yA5I/QG1eohAKLr7tiPY=
+
+Name: system/app/ThemeStore/ThemeStore.apk
+SHA1-Digest: ACsQTdc8mLeAfivj9VeDWDsPxUk=
+
+Name: system/app/CameraNext/CameraNext.apk
+SHA1-Digest: pzec9Ihsof7gkF+jkOo6glJQIvQ=
+
+Name: system/app/GalleryNext/GalleryNext.apk
+SHA1-Digest: nBytB02CAHoMqsyKIsLyG+k5TeA=
+

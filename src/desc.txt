@@ -1,0 +1,5 @@
+1440 2560 30
+p 1 0 part0
+p 1 0 part1
+p 0 0 part2
+p 1 0 part0
